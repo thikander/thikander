@@ -1,16 +1,36 @@
-## Hi there 👋
+<!-- Centered skill icons grouped by category -->
 
-<!--
-**thikander/thikander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 🌐 Frontend -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,bootstrap,htmx" />
+</p>
 
-Here are some ideas to get you started:
+<!-- 🧠 Backend -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,deno,bun,elysia,prisma,dotnet,java,py" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 🗄️ Databases -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+</p>
+
+<!-- 🛠️ Tools & Platforms -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,visualstudio,figma,ps" />
+</p>
+
+<!-- 🧪 Package Managers -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=npm,pnpm" />
+</p>
+
+<!-- 🐧 DevOps / OS -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,ubuntu" />
+</p>
+
+<!-- 🖥️ Desktop & Frameworks -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tauri,electron,bash" />
+</p>
