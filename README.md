@@ -34,3 +34,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tauri,electron,bash" />
 </p>
+
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
