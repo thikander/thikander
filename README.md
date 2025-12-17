@@ -1,42 +1,30 @@
-<!-- Centered skill icons grouped by category -->
-
-<!-- 🌐 Frontend -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,bootstrap,htmx" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,bootstrap,htmx,vue,svelte&size=32" />
 </p>
 
-<!-- 🧠 Backend -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,deno,bun,elysia,prisma,dotnet,java,py" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,deno,bun,elysia,prisma,dotnet,java,py,go&size=32" />
 </p>
 
-<!-- 🗄️ Databases -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,redis&size=32" />
 </p>
 
-<!-- 🛠️ Tools & Platforms -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,visualstudio,figma,ps" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,vscode,visualstudio,figma,ps&size=32" />
 </p>
 
-<!-- 🧪 Package Managers -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=npm,pnpm" />
+  <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn&size=32" />
 </p>
 
-<!-- 🐧 DevOps / OS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=docker,ubuntu,kubernetes&size=32" />
 </p>
 
-<!-- 🖥️ Desktop & Frameworks -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tauri,electron,bash" />
+  <img src="https://skillicons.dev/icons?i=tauri,electron,bash&size=32" />
 </p>
-
-
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
