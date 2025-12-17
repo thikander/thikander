@@ -18,9 +18,9 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SECTION_NAME: waka
           SHOW_LANGUAGE: true
-          SHOW_TOTAL_CODE_TIME: true
-          SHOW_PROJECTS: true
+          SHOW_TOTAL_CODE_TIME: false
+          SHOW_PROJECTS: false
           SHOW_EDITORS: true
-          SHOW_OS: true
+          SHOW_OS: false
           SHOW_COMMIT: true
-          SHOW_UPDATED_DATE: true
+          SHOW_UPDATED_DATE: false
