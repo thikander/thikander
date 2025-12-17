@@ -1,4 +1,14 @@
 <p align="center">
+  <strong>
+    <a href="https://page.thikander.cyou/" target="_blank" rel="noopener noreferrer">
+      thikander.cyou
+    </a>
+  </strong>
+</p>
+
+
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,bootstrap,htmx,vue,svelte&size=32" />
 </p>
 
@@ -25,13 +35,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tauri,electron,bash&size=32" />
 </p>
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-```
-
-
-<!--END_SECTION:waka-->
